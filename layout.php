@@ -345,12 +345,14 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     <div class="inner">
         <nav class="site-nav">
     <div class="site-nav-left">
-                <a class="site-nav-logo" href="http://39.106.177.240:80"><img src='https://cloud.flinty.top/?/Personal/%E5%9B%BE%E5%BA%8A%E7%94%A8/head.png' /></a>
-            <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="http://flinty.top/" style="font-size:12px; text-decoration: none;">Home</a></li>
-    <li class="nav-" role="menuitem"><a href="http://flinty.top/friends/" style="font-size:12px; text-decoration: none;">友情链接</a></li>
-    <li class="nav-" role="menuitem"><a href="http://flinty.top/ghost" style="font-size:12px; text-decoration: none;">管理员</a></li>
-</ul>
+                <a class="site-nav-logo" href="http://flinty.top/"><img src='https://cloud.flinty.top/?/Personal/%E5%9B%BE%E5%BA%8A%E7%94%A8/head.png' /></a>
+                                      <ul class="nav" role="menu">
+                                      <li class="nav-blog" role="menuitem"><a href="http://flinty.top/" style="font-size:12px; text-decoration: none;">Blog</a></li>
+                                      <li class="nav-" role="menuitem"><a href="http://flinty.top/friends/" style="font-size:12px; text-decoration: none;">友情链接</a></li>
+                                      <li class="nav-drive" role="menuitem"><a href="https://cloud.flinty.top/" style="font-size:12px; text-decoration: none;">Drive</a></li>
+                                      <li class="nav-" role="menuitem"><a href="http://flinty.top/ghost" style="font-size:12px; text-decoration: none;">博客后台</a></li>
+                                      <li class="nav-" role="menuitem"><a href="https://cloud.flinty.top/?/admin" style="font-size:12px; text-decoration: none;">网盘后台</a></li>
+                                      </ul>
 
     </div>
     <div class="site-nav-right">
