@@ -134,7 +134,7 @@
 	</style>
 	<style>
 		body {
-			background-image: url(http://ww1.sinaimg.cn/large/71c534f0ly1fw9tw14zb3j21hc0u01e4.jpg) !important;
+			background-image: url(https://ws1.sinaimg.cn/large/71c534f0ly1g0ivq0m3q3j21hc0u0an5.jpg) !important;
 			background-position: center bottom !important;
 			background-size: cover !important;
 			background-attachment: fixed !important;
